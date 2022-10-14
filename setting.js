@@ -15,9 +15,9 @@ global.smm = {
 }
 
 // Other
-global.owner = ['6283102650464',"6282135724604"]
-global.premium = ['6283102650464']
-global.profilebio = ['6283102650464'] // ini ganti nomor lu ntar bisa nampilin pp lu
+global.owner = ['6285808936396',"6285808936396"]
+global.premium = ['6285808936396']
+global.profilebio = ['6285808936396'] // ini ganti nomor lu ntar bisa nampilin pp lu
 global.sponsor = 'https://shop.tokotalk.com/chaosgamingidstores/home'
 global.packname = 'Elaina-Bot'
 global.footer = '© 2022 Nishikigi Chisato'
